@@ -10,6 +10,6 @@
 
 ![软件架构实践](images/软件架构实践.jpg)
 
--  **推动软件工程研究不断发展的，常是实际生产或使用软件时遇到的。**  -- [Mary Shaw, 《The Golden Age of Software Architecture》](https://www.researchgate.net/publication/224506601_The_Golden_Age_of_Software_Architecture_Revisited)
+- **推动软件工程研究不断发展的，常是实际生产或使用软件时遇到的。**  -- [Mary Shaw, 《The Golden Age of Software Architecture》](https://www.researchgate.net/publication/224506601_The_Golden_Age_of_Software_Architecture_Revisited)
 
 ![The Golden Age of Software Architecture](images/The_Golden_Age_of_Software_Architecture_Revisited.jpg)
