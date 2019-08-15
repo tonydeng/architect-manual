@@ -1,0 +1,4 @@
+.gitignore
+.bookignore
+.travis.*
+uml/
