@@ -14,6 +14,8 @@
   * [1.3. ADMEMS方法体系:3个阶段，一个贯穿](ch1/1.3.md)
     * [1.3.1. Pre-architecture阶段：ADMEMS矩阵方法](ch1/1.3.1.md)
     * [1.3.2. Conceptual Architecture阶段：重大需求塑造做概念架构](ch1/1.3.2.md)
+    * [1.3.3. Refined Architecture阶段:落地的 5 视图方法](ch1/1.3.3.md)
+    * [1.3.4 持续关注非功能需求:“目标-场景-决策”表方法](ch1/1.3.4.md)
   * [1.4. 如何解决“6大困惑”](ch1/1.4.md)
 
 ## 第一部分 Pre-Architecture阶段
