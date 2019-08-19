@@ -20,6 +20,9 @@
 
 ## 第一部分 Pre-Architecture阶段
 
+* [第2章 Pre-architecture的故事](ch2/README.md)
+  * [2.1. “不就是一个MIS吗？”](ch2/2.1.md)
+
 ## 第二部分 Conceptual Architecture阶段
 
 ## 第三部分 Refined Architecture阶段
