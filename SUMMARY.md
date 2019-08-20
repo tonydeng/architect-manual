@@ -24,7 +24,9 @@
   * [2.1. “不就是一个MIS吗!”](ch2/2.1.md)
   * [2.2. “必须把虚拟缓存管理裁剪掉”](ch2/2.2.md)
   * [2.3. “都是C++的错，换C重写”](ch2/2.3.md)
+  * [2.4. 展望“Pre-architecture阶段篇”](ch2/2.4.md)
 * [第4章 ADMEMS方法的‘约束性分类理论’](ch4/README.md)
+
 
 ## 第二部分 Conceptual Architecture阶段
 
