@@ -6,7 +6,7 @@
 
 可以通过[GitBook](https://tonydeng.gitbooks.io/architect-manual/)或者[Github](https://github.com/tonydeng/architect-manualk)来在线阅读。
 
-也可以下载[ePub](https://www.gitbook.com/download/epub/book/tonydeng/architect-manual)或者[PDF](https://www.gitbook.com/download/pdf/book/tonydeng/architect-manualdn)版本。
+也可以下载[PDF](https://www.gitbook.com/download/pdf/book/tonydeng/architect-manual)、[ePub](https://www.gitbook.com/download/epub/book/tonydeng/architect-manual)或者[Mobi](https://www.gitbook.com/download/mobi/book/tonydeng/architect-manual)版本。
 
 ## 项目源码
 
