@@ -27,6 +27,8 @@
   * [2.4. 展望“Pre-architecture阶段篇”](ch2/2.4.md)
 * [第3章 Pre-architecture总论](ch3/README.md)
   * [3.1. 什么是Pre-architeture](ch3/3.1.md)
+  * [3.2. 实际意义](ch3/3.2.md)
+  * [3.3. 业界现状](ch3/3.3.md)
 * [第4章 ADMEMS方法的‘约束性分类理论’](ch4/README.md)
 
 
