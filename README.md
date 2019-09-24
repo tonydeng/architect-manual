@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/tonydeng/architect-manual.svg?branch=master)](https://travis-ci.org/tonydeng/architect-manual)
 
+**架构，是一种递进的能力。**
+
 ## 在线阅读
 
 可以通过[GitBook](https://tonydeng.gitbooks.io/architect-manual/)或者[Github](https://github.com/tonydeng/architect-manualk)来在线阅读。
