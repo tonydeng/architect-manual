@@ -1,5 +1,19 @@
 {
-    "plugins": ["anchors", "ga", "github-buttons"],
+    "plugins": [
+        "anchors", 
+        "ga", 
+        "github-buttons",
+        "-sharing",
+        "-lunr",
+        "-search",
+        "-highlight",
+        "search-plus",
+        "splitter",
+        "atoc",
+        "sectionx",
+        "images-version",
+        "image-captions"
+    ],
     "pluginsConfig": {
         "ga": {
             "token": "UA-80673215-1"
