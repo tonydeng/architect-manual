@@ -42,6 +42,12 @@
 
 ## 第二部分 Conceptual Architecture阶段
 
+* [第6章 概念架构的故事](ch6/README.md)
+  * [6.1. 一筹莫展](ch6/6.1.md)
+  * [6.2. 制定方针](ch6/6.2.md)
+  * [6.3. 柳暗花明](ch6/6.3.md)
+  * [6.4. 结局与经验](ch6/6.4.md)
+
 ## 第三部分 Refined Architecture阶段
 
 ## 第四部分 非功能目标的方法论
