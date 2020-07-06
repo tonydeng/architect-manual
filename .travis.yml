@@ -4,6 +4,7 @@ before_install:
 - export TZ='Asia/Shanghai'
 install:
 - npm install gitbook -g
+- npm install gitbook-cli -g
 script:
 - gitbook install && gitbook build
 branches:
