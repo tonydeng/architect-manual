@@ -3,7 +3,7 @@ node_js: stable
 before_install:
 - export TZ='Asia/Shanghai'
 install:
-- npm install -g gitbook-cli
+- npm install gitbook-cli -g
 script:
 - gitbook install && gitbook build
 branches:
