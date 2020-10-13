@@ -114,3 +114,14 @@
 * [第18章 方法：“目标-场景-决策”表](ch18/README.md)
   * [18.1. 场景技术](ch18/18.1.md)
   * [18.2. “目标-场景-决策”表](ch18/18.2.md)
+
+## 第五部分 附录
+
+* [附录A 架构设计原则](appendix-a/README.md)
+  * [基本原则](appendix-a/base.md)
+  * [功能选择](appendix-a/features.md)
+  * [服务端设计与并发](appendix-a/server-design.md)
+  * [分布式系统](appendix-a/distributed-systems.md)
+  * [用户体验](appendix-a/ux.md)
+  * [艰难的问题](appendix-a/hard-problems.md)
+  * [总结](appendix-a/Conclusion.md)
