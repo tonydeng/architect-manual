@@ -17,6 +17,8 @@
 
 **架构，是一种递进的能力。**
 
+> 本书主要内容来自[《一线架构师实践指南》 - 温昱](https://book.douban.com/subject/4031899/)
+
 ## 在线阅读
 
 可以通过[GitBook](https://tonydeng.gitbooks.io/architect-manual/)或者[Github](https://tonydeng.github.io/architect-manual)来在线阅读。
