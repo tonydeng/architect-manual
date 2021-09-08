@@ -1,0 +1,15 @@
+name: 'Gitbook Action Build'
+on:
+  push:
+    branches:
+      - master  # trigger branch
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout action
+      uses: actions/checkout@v2
+    - name: Gitbook Action           # https://github.com/ZanderZhao/gitbook-action/releases
+      uses: ZanderZhao/gitbook-action@v1.2.4  # -> or ZanderZhao/gitbook-action@master.  If not use master click above, use latest please 
+      with:                                   #    or fork this repo and use YourName/gitbook-action@master
+        token: aK4jPQFX4Xl9dCn7XQ7NAYZGYywSPPXzn54z4sN0Cd71rbs8L/M0MWkl3oi6qKbwOTCnlrHZzyLscug9pILMRoLmQFUDZgSjmz7ocwKJJxMd/WWgQKEzODTx0/ut5Laiyuu3+sOw83xaMoSEspwNOME+bUngXazFOnW3cKPy3/65zGebv6Aff0dVLPUuLdFWyXtnbAbLHlSXXVr8XacNgqmhQeVdbwjzbdQDg2QLEkQfPMnOI7/jEQ83jcIRxYJTCy55jQTEOWyzGsfqv2bmpqxSAKmbTbD+ffHE0Wdat1ifK8xqhjKGoLVpwVCOuk5DZm5R5T7GKsT1DZs9s2eu2076hPhHwpwcugAFU879gAPZBSe6ZWb8N6tc/CbecO8gYFhuqBve9O06wjldm489VPAZjP291313uY0S7m3n1pbrj2A/XN4CR9oCEfBkQup5XnMqLWOvYpqfVcObkwIUpFhr0zRzDspGBZTPVr9PSqoKQ4Rn3GfoHjkIgjPHf3krNLqrO03RVLouP3rO4hvK5LQpAp3259FSgcX9sU0hPWhpSmAxMZ7VG+bMvSfknzcgqGxDPI5isriIzQVfI1NcBcYccUbX8CWbugkIgGVELKsY6XUqpjp8cRZUpmaULqX1SlMMQg4stght5fW0y3XZjbXyOepnrRPcSEkYv+oibnA=  # -> remember add this in settings/secrets as following
