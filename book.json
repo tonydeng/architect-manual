@@ -10,9 +10,9 @@
         "search-plus",
         "splitter",
         "atoc",
-        "sectionx",
-        "images-version",
-        "image-captions"
+        "sectionx"
+        // "images-version",
+        // "image-captions"
     ],
     "pluginsConfig": {
         "ga": {
