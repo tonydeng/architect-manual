@@ -11,8 +11,6 @@
         "splitter",
         "atoc",
         "sectionx"
-        // "images-version",
-        // "image-captions"
     ],
     "pluginsConfig": {
         "ga": {
